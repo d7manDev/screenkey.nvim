@@ -194,7 +194,7 @@ local function compress_output()
     end
 
     -- remove old entries
-    local text = table.concat(compressed_keys, " ")
+    local text = table.concat(compressed_keys, "")
     while #text > Config.options.win_opts.width - 2 do
         local removed = table.remove(compressed_keys, 1)
         -- HACK: don't touch this, please
