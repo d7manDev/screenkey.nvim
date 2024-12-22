@@ -2,7 +2,7 @@
 >
 > # this repo only for adding my adjecment to the plugin 😊
 
-# **i remove the space bettwen the keys when press**
+### **i remove the space bettwen the keys when press**
 
 # Screenkey.nvim
 
